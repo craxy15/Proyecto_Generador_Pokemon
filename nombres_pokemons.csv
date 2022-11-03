@@ -1,0 +1,15 @@
+name,especie,habilidad,color,velocidad,fortaleza,precision,resistencia,salto,identificador
+Bulbasaur,Semilla,Espesura,Verde,3,3,4,4,3,1231
+Ivysaur,Semilla,Espesura,Verde,2,3,5,5,3,3125
+Venusaur,Semilla,Espesura,Verde,2,5,3,5,2,6123
+Charmander,Lagartija,"Mar llamas",Rojo,3,5,4,3,3,2571
+Charmeleon,Llama,"Mar llamas",Rojo,3,4,4,2,3,2521
+Charizard,Llama,"Mar llamas",Rojo,3,3,2,5,5,4123
+Squirtle,Tortuguita,Torrente,Azul,3,3,4,4,2,9812
+Wartortle,Tortuga,Torrente,Azul,4,3,5,4,3,8991
+Blastoise,Armazon,Torrente,Azul,3,5,3,5,3,6671
+Caterpie,Gusano,"Polvo escudo",Verde,3,3,4,3,2,5512
+Metapod,Capullo,Mudar,Verde,3,3,1,5,3,7798
+Butterfree,Mariposa,"Ojo compuesto",Verde,4,3,3,3,5,1288
+Weedle,Oruga,"Polvo escudo",Verde,3,4,4,3,2,2155
+Pikachu,Raton,"Electricidad estatica",Amarillo,4,4,4,4,4,1267
